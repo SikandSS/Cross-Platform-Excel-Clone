@@ -1,6 +1,7 @@
-# Cross-Platform-Excel-Clone
 Excel clone
 Beginning stage
+#Copy pasted my personal notes on here so the description wont make much sense without the formatting.
+
 Made a rough UI design using freeware software on the interwebs. Define all content relationship and follow up with a slight dive into the DOM tree.
  
  
