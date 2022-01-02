@@ -1,0 +1,28 @@
+relationship define of divs
+draw ui
+make skeleton structure in html and css
+css gave the structure shape by defining vh
+used box sizing border box in css to remove extra scrollable space in display
+
+
+Title box
+
+took color from online excel 
+use flexbox to align items in title-box use flexbox column ang flexbox row to align in centre of column and row respectively
+put color: white to turn text color white
+in body css put global font size of 14
+
+
+Menu box
+
+Make divs for all menu items 
+give them classes for there menu name
+make a selected class and give one tab selected class and give that one it's specific css
+handle hover cases 
+
+Menu icon bar
+
+get icons from google icon api
+handle hover cases
+make drop down lists for font size and 
+
